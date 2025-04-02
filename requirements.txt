@@ -1,0 +1,11 @@
+numpy
+pandas
+psutil
+requests
+scapy
+smtplib
+scikit-learn
+cryptography
+argparse
+datetime
+logging
