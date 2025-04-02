@@ -1,7 +1,6 @@
 # Deep Detect 
 
-![Deep Detect](https://github.com/yesh00008/DeepDetect/)  
-*A powerful and comprehensive framework for real-time threat detection and defense.*
+*A powerful and comprehensive framework for real-time threat detection and defense. In collaboration with YASHWANT THOTAKURA*
 
 ---
 
