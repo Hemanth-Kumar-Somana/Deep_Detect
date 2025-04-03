@@ -1,6 +1,6 @@
-# Deep Detect 
+# Deep Detect
 
-*A powerful and comprehensive framework for real-time threat detection and defense. In collaboration with YASHWANT THOTAKURA*
+*A powerful and comprehensive framework for real-time threat detection and defense. In collaboration with [YASHWANT THOTAKURA](https://github.com/yesh00008/) 
 
 ---
 
@@ -30,13 +30,12 @@ Whether you're a cybersecurity professional or developer, this toolkit provides 
 
 ---
 
----
-
 ## 🔧 Installation
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yesh00008/DeepDetect/
    cd DeepDetect
+   ```
 
 2. **Install Dependencies**  
    ```sh
@@ -53,7 +52,6 @@ Whether you're a cybersecurity professional or developer, this toolkit provides 
 - Expanded vulnerability databases  
 - Anomaly trend visualization  
 - Cloud monitoring support  
-
 
 ## License
 This project is licensed under the **MIT License**.
